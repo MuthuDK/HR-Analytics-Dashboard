@@ -6,7 +6,7 @@
 ## 📌Key Features
 - Attrition Analysis – Monitor attrition rate, count, and gender distribution.
 - Workforce Overview – Track total employees, active employees, and average age.
-- Income Distribution* – Analyze monthly income by job roles.
+- Income Distribution – Analyze monthly income by job roles.
 - Demographic Insights – Visualize education fields, marital status, and age bands.
 - Performance Metrics – View department-wise performance ratings.
 - Job Satisfaction – Assess employee satisfaction levels across job roles.
@@ -18,4 +18,5 @@
 ## 📁Project Structure
 - <a href="https://github.com/MuthuDK/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard">View Dashboard</a>
 
-
+## ✅Conclusion
+ By overall analysis, the dashboard reveals critical insights such as a 16% attrition rate, a majority of employees concentrated in the Life Sciences and Medical fields, and noticeable variations in job satisfaction across roles. These insights highlight areas where HR strategies can be improved to enhance employee retention, optimize department performance, and support data-driven decision-making in workforce management.
